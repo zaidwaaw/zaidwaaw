@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zaidwaaw
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...l
 - 🌱 I’m currently learning ...l
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...l
+- 📫 How to reach me ...l
 
 <!---
 zaidwaaw/zaidwaaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
